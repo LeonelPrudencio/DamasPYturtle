@@ -1,2 +1,2 @@
 # DamasPYturtle
-Jusgo de damas en Python utilizando turtle
+Juego de damas en Python utilizando turtle
